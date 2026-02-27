@@ -16,6 +16,8 @@ Fetches random quotes from a live API with smooth fade animations and a refined 
 
 ## 📸 Preview
 
+🔗 **[Live Demo →](https://mfarhanshaikh.github.io/qoute-generator-app/)**
+
 > _Dark luxury card UI with Playfair Display typography, gold accents, and smooth quote transitions._
 
 ![Quote Generator Preview] <img width="1895" height="844" alt="image" src="https://github.com/user-attachments/assets/70b0eddf-c8b1-4aa9-b72d-cad6732ff326" />
